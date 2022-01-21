@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">重组</string>
+    <string name="you_scored">你的得分是: %d</string>
+    <string name="play_again">再玩一次</string>
+    <string name="try_again">再试一次</string>
+    <string name="exit">退出</string>
+    <string name="congratulations">恭喜！</string>
+    <string name="enter_your_word">请输入单词：</string>
+    <string name="word_count">%d / %d 单词</string>
+    <string name="score">得分: %d</string>
+    <string name="submit">提交</string>
+    <string name="skip">跳过</string>
+    <string name="instructions">用上面给出的字母重组单词</string>
+</resources>
